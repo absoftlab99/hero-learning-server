@@ -18,18 +18,19 @@ app.get('/categories', (req, res) =>{
 })
 
 app.get('/course', (req, res) =>{
-    res.send(news);
+    res.send(course);
+})
+
+app.get('/course/:id', (req, res) =>{
+    const id = req.params.id;
+    const single_course = course.find(course => course.course_id === id);
+    res.send(single_course);
 })
 
 app.get('/category/:id',(req, res) =>{
     const id = req.params.id;
-    if(id === '08'){
-        res.send(course);
-    }
-    else{
-        const course_category = course.filter(course => course.category_id === id);
-        res.send(course_category);
-    }
+    const course_category = course.filter(course => course.category_id === id);
+    res.send(course_category);
 })
 
 app.listen(port, ()=>{
