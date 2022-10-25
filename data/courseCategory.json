@@ -1,0 +1,26 @@
+[
+    {
+        "category_id" : "1",
+        "category_name" : "HTML 5"
+    },
+    {
+        "category_id" : "2",
+        "category_name" : "CSS 3"
+    },
+    {
+        "category_id" : "3",
+        "category_name" : "Bootstrap 5"
+    },
+    {
+        "category_id" : "4",
+        "category_name" : "Tailwind CSS"
+    },
+    {
+        "category_id" : "5",
+        "category_name" : "JavaScript"
+    },
+    {
+        "category_id" : "6",
+        "category_name" : "React"
+    }
+]
