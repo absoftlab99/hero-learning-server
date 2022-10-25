@@ -91,19 +91,19 @@
     },
     {
         "course_id" : "6",
-        "course_name" : "JavaScript from Beginner to Expert",
+        "course_name" : "React Front To Back 2022",
         "category_id" : "6",
-        "price" : "150",
-        "details" : "Would you like to learn JavaScript and become a good earning front-end developer? Save your precious time by buying this course. You will learn how to program in JavaScript in a fast and easy way! The total length of the JavaScript course is over 12 hours! You will learn theory and you will also gain lots of practice. During the course, I will explain to you how to write real-life applications, like galleries with thumbnails, image sliders, etc. I will do everything so that you understand JavaScript. After this course, you will always understand the code you are writing. You will understand all concepts and create your own applications! After my course, you can become a front-end developer. JavaScript is a very demanded language by employers. The course is designed for people who don't have any knowledge about programming or want to truly understand JavaScript. It doesn't matter if you have never written any programs or you have no idea about programming... After my course, all this will change. You will bust the myth that programming is a difficult thing only for the few!",
-        "thumbnail_img" : "https://i.ibb.co/8rnPWYL/javascript.png",
-        "full_img" : "https://i.ibb.co/c6K2GYS/javascript.png",
+        "price" : "200",
+        "details" : "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills. The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more. The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.",
+        "thumbnail_img" : "https://i.ibb.co/jDQYXT9/react.jpg",
+        "full_img" : "https://i.ibb.co/fHyWw2V/react.jpg",
         "instructor" : {
-            "name" : "Arkadiusz Włodarczyk",
-            "photo" : "https://img-c.udemycdn.com/user/200_H/621716_0514_3.jpg"
+            "name" : "Brad Traversy",
+            "photo" : "https://img-c.udemycdn.com/user/200_H/21681922_4513_5.jpg"
         },
         "ratings" : {
-            "rating" : "4.3",
-            "rated" : "1000"
+            "rating" : "4.5",
+            "rated" : "1020"
         }
 
     }
