@@ -33,6 +33,12 @@ app.get('/category/:id',(req, res) =>{
     res.send(course_category);
 })
 
+app.get('/course-details/:id',(req, res) =>{
+    const id = req.params.id;
+    const course_details = course.filter(course => course.category_id === id);
+    res.send(course_details);
+})
+
 app.listen(port, ()=>{
     console.log('Hero Learning Server Running on Port:', port);
 })
