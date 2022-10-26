@@ -1,7 +1,7 @@
 [
     {
         "course_id" : "1",
-        "course_name" : "Introduction to HTML5",
+        "course_name" : "Introduction to HTML5 Beginners to Expert",
         "category_id" : "1",
         "price" : "50",
         "details" : "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez from www.opensuny.org. This course will appeal to a wide variety of people, but specifically those who would like a step-by-step description of the basics. There are no prerequisites for this course and it is assumed that students have no prior programming skills or IT experience. The course will culminate in a small final project that will require the completion of a very simple page with links and images. The focus of this course is on the basics, not appearance. You can see a sample final page at http://intro-webdesign.com/html5-plain.html. This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/",
@@ -19,7 +19,7 @@
     },
     {
         "course_id" : "2",
-        "course_name" : "Introduction to CSS3",
+        "course_name" : "Introduction to CSS3 Beginners to Expert",
         "category_id" : "2",
         "price" : "80",
         "details" : "The web today is almost unrecognizable from the early days of white pages with lists of blue links.  Now, sites are designed with complex layouts, unique fonts, and customized color schemes.   This course will show you the basics of Cascading Style Sheets (CSS3).  The emphasis will be on learning how to write CSS rules, how to test code, and how to establish good programming habits. When done correctly, the styling of a webpage can take enhance your page.   When done incorrectly the result can be worse than no styling at all.    To ensure that your sites do not put up  barriers for people with cognitive and/or physical disabilities, you will learn how to evaluate pages using the standardized POUR accessibility guidelines.    Upon completion of the course, learners will be able to sketch a design for a given HTML page.  Using that design they will use CSS to implement the design by adding fonts, colors, and  layouts. This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design. It will be difficult to complete this course if you do not have access to a laptop or desktop computer for the homework.",
@@ -42,7 +42,7 @@
         "price" : "120",
         "details" : "This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 5. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp. At the end of this course, you will be able to a)Set up, design and style a web page using Bootstrap 5 and its components, b) Create a responsive web page design, and c) Make use of web tools to setup and manage web sites. This course also includes an honors track that enables you to work on your own project developing a website using Bootstrap 5. Students enrolling in this course should have prior good working knowledge of HTML, CSS and JavaScript.",
         "thumbnail_img" : "https://i.ibb.co/MBnxqnh/css3.jpg",
-        "full_img" : "https://i.ibb.co/g4yLsy7/css3.jpg",
+        "full_img" : "https://cdn.mansfeld.pl/wp-content/uploads/2020/04/kurs-bootstrap-5.png",
         "instructor" : {
             "name" : "Jogesh K. Muppala",
             "photo" : "https://www.cse.ust.hk/~muppala/img/muppala.jpg"
@@ -91,7 +91,7 @@
     },
     {
         "course_id" : "6",
-        "course_name" : "React Front To Back 2022",
+        "course_name" : "React  Beginners to Expert 2022",
         "category_id" : "6",
         "price" : "200",
         "details" : "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills. The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more. The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.",
