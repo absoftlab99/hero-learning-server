@@ -29,7 +29,7 @@ app.get('/course/:id', (req, res) =>{
 
 app.get('/category/:id',(req, res) =>{
     const id = req.params.id;
-    if(id === 0){
+    if(id == 0){
         res.send(course);
     }else{
         const course_category = course.filter(course => course.category_id === id);
