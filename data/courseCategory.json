@@ -1,5 +1,9 @@
 [
     {
+        "category_id" : "0",
+        "category_name" : "All Course"
+    },
+    {
         "category_id" : "1",
         "category_name" : "HTML 5"
     },
